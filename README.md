@@ -39,14 +39,16 @@
 - - -
 ### When there is enough of a product
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-z2UZmBEE60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Alt text](https://img.youtube.com/vi/-z2UZmBEE60/0.jpg)](https://www.youtube.com/watch?v=-z2UZmBEE60)
 
-[![Demo](https://www.youtube.com/embed/-z2UZmBEE60)]
+### When there is NOT enough of a product
+
+[![Alt text](https://img.youtube.com/vi/Tswcnbu57VA/0.jpg)](https://www.youtube.com/watch?v=Tswcnbu57VA)
 
 - - -
 
-### Challenge #2: Manager View (Next Level)
+### Challenge #2: Manager View
 
 * Create a new Node application called `bamazonManager.js`. Running this application will:
 
@@ -67,3 +69,7 @@
   * If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
+
+### Here us the Manager View process
+
+[![Alt text](https://img.youtube.com/vi/xmA4qYOnsyg/0.jpg)](https://www.youtube.com/watch?v=xmA4qYOnsyg)
