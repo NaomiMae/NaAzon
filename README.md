@@ -70,6 +70,6 @@
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
-### Here us the Manager View process
+### Here is the Manager View process
 
 [![Alt text](https://img.youtube.com/vi/xmA4qYOnsyg/0.jpg)](https://www.youtube.com/watch?v=xmA4qYOnsyg)
